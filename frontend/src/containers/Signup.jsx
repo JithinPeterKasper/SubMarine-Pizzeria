@@ -50,7 +50,7 @@ export default function Signup() {
                       <h4>Name</h4>
                     <input type="text" name="username" id="username"  placeholder="User Name" onChange={inputUserName} /><br/><br/>
                     <h4>Email</h4>
-                    <input type="text" name="email" id="emaul"  placeholder="Email Address" onChange={inputEmail} /><br/><br/>
+                    <input type="text" name="email" id="email"  placeholder="Email Address" onChange={inputEmail} /><br/><br/>
                     <h4>Password</h4>
                     <input type="text" name="password" id="password"  placeholder="Password" onChange={inputPassword} /><br/><br/>
                     <br /><br/>

@@ -23,7 +23,7 @@ function Header() {
         <section class="header">
         
             <div class="submarine">
-                <a href="#default" class="logo"><h2>SubMarine Pizzeria</h2></a>
+                <a href="#" class="logo"><h2>SubMarine Pizzeria</h2></a>
             </div>
             <div class="cart">
                 {key ? (
